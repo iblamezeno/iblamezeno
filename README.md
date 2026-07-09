@@ -37,7 +37,7 @@ Favorite  :: Minecraft
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=iblamezeno&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iblamezeno&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
