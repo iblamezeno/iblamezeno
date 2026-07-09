@@ -15,7 +15,6 @@
 ```txt
 Name      :: Zeno
 Country   :: Bangladesh
-Editor    :: VS Code
 Focus     :: Game Development
 Learning  :: Cybersecurity
 Favorite  :: Minecraft
