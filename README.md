@@ -2,7 +2,6 @@
 
 # 𝚉𝚎𝚗𝚘
 
-> *Lost in the void.*
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Game+Developer;Minecraft+Mod+Developer;Cybersecurity+Enthusiast;Always+Learning+Something+New" />
 
