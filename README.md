@@ -29,14 +29,6 @@ Favorite  :: Minecraft
 
 ---
 
-## GitHub Stats
-
-# Hi, I'm Zeno 👋
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iblamezeno&show_icons=true&theme=tokyonight" />
-</p>
-
 ---
 
 ## Current Projects
